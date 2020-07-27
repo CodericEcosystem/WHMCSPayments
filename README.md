@@ -1,6 +1,14 @@
-# WHMCS Sample Third Party Payment Gateway Module #
+---
+layout: pagina
+title: Módulo de Pagos para WHMCS
+permalink: /
+canonical_url: https://schema.coderic.net/
+sitemap: false
+---
 
-## Summary ##
+# Módulo de Pagos para WHMCS #
+
+## Resumen ##
 
 Payment Gateway modules allow you to integrate payment solutions with the WHMCS
 platform.
